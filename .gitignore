@@ -1,3 +1,5 @@
 /*.html
 /pollen.cache
 /*.txt
+compiled/
+pollen-cache/
