@@ -1,3 +1,0 @@
-#lang pollen
-Hello Ladies!
-
