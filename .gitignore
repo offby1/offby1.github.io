@@ -1,6 +1,6 @@
 /*.html
-/pollen.cache
 /*.txt
+/pollen.cache
+/styles.css
 compiled/
 pollen-cache/
-/styles.css
