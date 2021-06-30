@@ -1,7 +1,7 @@
 How to make this all work!
 
-- install racket, duh
-- `raco pkg install pollen`
+- install racket, duh (`brew install racket` on MacOS)
+- `raco pkg install pollen` -- takes a while
 - `raco pollen render`
 - push the HTML and `styles.css` upstream, then wait a couple of minutes; the changes should eventually appear at https://offby1.github.io/
 
