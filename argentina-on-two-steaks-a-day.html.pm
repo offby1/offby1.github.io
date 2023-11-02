@@ -107,7 +107,7 @@ Mate aficionados will tell you that mate contains a special compound, mateine, t
 
 Since I am writing this from Argentina, I will just diplomatically state that mate includes a constellation of chemicals, whose presence may affect the way the body absorbs caff... er, mateine, giving it a unique physiological effect.
 
-The national love affair with mate doesn't just affect lunch. It has the dire effect of making Argentines less than enthusiastica bout booze. The wine here is very good (something has to stand up to that steak), but Argentina has no liquor to call its own, relying on whiskies like Old Smuggler and the low-maintenance Don Juan cognac to carry the flag.
+The national love affair with mate doesn't just affect lunch. It has the dire effect of making Argentines less than enthusiastic about booze. The wine here is very good (something has to stand up to that steak), but Argentina has no liquor to call its own, relying on whiskies like Old Smuggler and the low-maintenance Don Juan cognac to carry the flag.
 
 
 Beer is ubiquitous and comes in a bewildering variety of sizes, although there is a skittishness about the full-on liter. Things level off at 970 mL. In my case, it means I end up drinking 1940 mL of beer as a kind of personal protest, and all is well with the world. To make up for the abundance of sizes, beer comes in only one variety, Quilmes, which inevitably comes served with a tripartite platter of snacks - nuts, salty cylinders, and aged potato chips. On rare occasions, you may even get a four-leaf platter (olives), this is considered lucky.
